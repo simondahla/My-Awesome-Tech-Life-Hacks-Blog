@@ -9,10 +9,10 @@
 title: Awesome Tech Life Hacks
 email: simon@dah.la
 description: >
-  Tech Life Hacks that I found on the intrawebz
+  Random stuff that I found on the internet
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://blog.dah.la" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Simon Dahla'
